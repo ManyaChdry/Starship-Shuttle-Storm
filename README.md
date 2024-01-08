@@ -1,4 +1,4 @@
-# First-Pygame
+# Starship Shuttle Storm: my First-Pygame
 
 This is my first attempt at game development. <br>
 Uses PYTHON (PYGAME MODULE) <br>
